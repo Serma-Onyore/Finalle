@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1016999557829",
+    "project_id": "finalle-16893",
+    "storage_bucket": "finalle-16893.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1016999557829:android:4e9bc148589cd978008eac",
+        "android_client_info": {
+          "package_name": "com.maureen.finalle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiCLN9t2FpbV9CydP9qCHui_p6FAdkAD8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
